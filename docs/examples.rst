@@ -36,7 +36,7 @@ Captured Functions
 
 My Commands
 ===========
-`examples/05_my_commands.py <https://github.com/IDSIA/sacred/tree/master/examples/05_my_commands.py>`_
+:source:`examples/05_my_commands.py`
 
 .. automodule:: examples.05_my_commands
 
